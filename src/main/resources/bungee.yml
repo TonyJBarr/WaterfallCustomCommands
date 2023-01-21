@@ -1,0 +1,5 @@
+name: CustomCommands
+version: '${project.version}'
+main: me.noxnap.customcommands.CustomCommands
+description: CustomCommands is a plugin for Waterfall servers that allows users to configure custom text commands. These commands can be used to quickly send pre-defined messages to players when they type in certain commands. For example, typing in /discord could send a message to the player saying "The Discord can be found at [website]". This plugin is designed to make it quick and easy for players to access important information without having to manually search for it.
+author: NoxNap
